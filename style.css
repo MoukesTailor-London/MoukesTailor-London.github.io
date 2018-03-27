@@ -1,15 +1,12 @@
-html{background:url(background.jpg);
-    background-size: cover;
+
+body {
+    background: url(background.jpg) no-repeat  center center fixed;
+        background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
  -o-background-size: cover; 
     height:100%;
-    width:100%
-}
-body {
-    background: url(background.jpg) no-repeat  center center fixed;
-   
-    height:100%;}
+    width:100%;}
 h1{color: rgb(212, 162, 106);}
 h3{color: rgb(255, 214, 170); font-size: 25px}
 h4{color: rgb(255, 214, 170); font-size: 25px}
