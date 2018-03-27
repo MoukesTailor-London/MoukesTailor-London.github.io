@@ -3,7 +3,8 @@ body{
     -webkit-background-size: cover;
     -moz-background-size: cover;
  -o-background-size: cover;
-background-size: cover;}
+background-size: cover;
+overflow:visible;}
 
 h1{color: rgb(212, 162, 106);}
 h3{color: rgb(255, 214, 170); font-size: 25px}
