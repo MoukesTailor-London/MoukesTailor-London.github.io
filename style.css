@@ -1,6 +1,5 @@
-body {
-    background: url(background.jpg) no-repeat  center;
-        
+body{
+    background: url(background.jpg) no-repeat  center;     
     -webkit-background-size: cover;
     -moz-background-size: cover;
  -o-background-size: cover;
