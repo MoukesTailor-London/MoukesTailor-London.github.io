@@ -3,6 +3,7 @@ html{background:url(background.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
  -o-background-size: cover; 
+    height:100%;
 }
 body {
     background: url(background.jpg) no-repeat  center center fixed;
