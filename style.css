@@ -9,7 +9,7 @@ background-size: cover;}
     position: relative;
     background-image: url(background.jpg);
     background-repeat:no-repeat;
-    background-size:100% 100vh;
+    background-size:cover;
 }
 
 h1{color: rgb(212, 162, 106);}
