@@ -4,6 +4,7 @@ html{background:url(background.jpg);
     -moz-background-size: cover;
  -o-background-size: cover; 
     height:100%;
+    width:100%
 }
 body {
     background: url(background.jpg) no-repeat  center center fixed;
