@@ -5,8 +5,7 @@
     -o-background-size: cover;
     background-size: cover;
     height: 100%;
-    overflow: hidden;
-flex-wrap:wrap;}
+    overflow: hidden;}
 h1{color: rgb(212, 162, 106);}
 h3{color: rgb(255, 214, 170); font-size: 25px}
 h4{color: rgb(255, 214, 170); font-size: 25px}
